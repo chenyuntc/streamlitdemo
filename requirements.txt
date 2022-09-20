@@ -1,2 +1,4 @@
 streamlit
 streamlit-image-comparison
+opencv-python-headless==4.5.4.60
+
